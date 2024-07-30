@@ -2,11 +2,6 @@ import React from "react";
 
 import { FiArrowRight } from "react-icons/fi";
 
-import BookImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/Hard%20Cover%20Book.svg";
-import AurhorImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/image%204.svg";
-import Flag1 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Great%20Britain.svg";
-import Flag2 from "file:///Users/nimishs/Documents/todo-front-end/src/images/USA.svg";
-import Flag3 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Canada.svg";
 import Footer from "./Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";
